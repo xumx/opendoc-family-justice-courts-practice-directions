@@ -1,5 +1,5 @@
-title: Family Justice Courts Practice Directions 
-remote_theme: opendocsg/opendoc-theme@v2
+title: Family Justice Courts Practice Directions
+remote_theme: opendocsg/opendoc-theme@docsearch
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-family-justice-courts-practice-directions
 plugins:
@@ -32,6 +32,8 @@ order:
   - "Appendix B- Discovery and Inspection of Electronic Documents.md"
   - "Appendix C-  Sample Bills of Costs.md"
   - "Appendix D- Fees For Use of the Technology Courts and the Mobile Infocomm Technology Facilities.md"
+docsearch_api_key: 67008972adfc94daf1d4be2bd892f048
+docsearch_index_name: familyjusticecourts
 styling_options:
   primary_brand_color: '#9f0836'
   logo_path: /assets/images/logo.png
